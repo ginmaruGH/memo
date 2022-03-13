@@ -9,4 +9,5 @@ Ginmaru個人の公開学習ノートです。
 ## Directory
 
 - Git
+  - [マンガでわかるGit まとめ](git/manga_git.md)
 - iPass
