@@ -1,4 +1,6 @@
-# GitHub Pages memo
+# References
+
+## "GitHub Pages" related
 
 - [About GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
 - [GitHub Pages サイトを作成する](https://docs.github.com/ja/pages/getting-started-with-github-pages/creating-a-github-pages-site)
