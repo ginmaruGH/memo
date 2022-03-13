@@ -21,6 +21,10 @@
   - [第18話 git tag](https://www.r-staffing.co.jp/engineer/entry/20201120_1)
   - [第19話 detached HEAD 状態って何？](https://www.r-staffing.co.jp/engineer/entry/20201225_1)
 
+---
+
+&nbsp;
+
 - 01 リポジトリの作成
   - `git init`
   - `git status`
@@ -85,3 +89,5 @@
   - `git push origin <tag-name>`
 - 19 detached HEADを解決する
   - `git branch <branch-name>`
+
+&nbsp;
