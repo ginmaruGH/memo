@@ -11,3 +11,5 @@ Ginmaru個人の公開学習ノートです。
 - Git
   - [マンガでわかるGit まとめ](git/manga_git.md)
 - iPass
+  - [キタミ式イラストIT塾 ITパスポート令和03年](ipass/chap_00.md)
+  - [01. コンピュータ事始め](ipass/chap_01.md)
